@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.mau.tradingtools.decision",
+      "sha256_cert_fingerprints": ["6F:F6:8B:D3:36:BC:58:07:10:7F:0A:3A:A0:58:42:61:D5:15:63:EC:9D:6B:17:91:97:35:53:AD:ED:4B:77:3F"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.mau.tradingtools.alerte",
+      "sha256_cert_fingerprints": ["6F:F6:8B:D3:36:BC:58:07:10:7F:0A:3A:A0:58:42:61:D5:15:63:EC:9D:6B:17:91:97:35:53:AD:ED:4B:77:3F"]
+    }
+  }
+]
